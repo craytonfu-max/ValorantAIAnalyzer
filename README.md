@@ -1,4 +1,4 @@
-# PassionProject
+# Valorant AI Analyzer
 
 ## Brainstorm Section
 
